@@ -1,0 +1,15 @@
+# build tool (download MADS separately)
+mads.exe
+
+# build outputs (build/assets and the ATR stay tracked)
+/build/*
+!/build/assets/
+!/build/snookerVBXE.atr
+
+# build scratch / caches
+/tools/out/
+__pycache__/
+*.pyc
+
+# editor / agent
+.claude/
