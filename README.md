@@ -31,11 +31,11 @@ each player is a human or one of 5 computer players.
 ## Build
 
 You need [MADS](https://github.com/tebe6502/Mad-Assembler) (`mads.exe` in the project root),
+[ZX02](https://github.com/dmsc/zx02) (`zx02.exe` in `docs/mads-src/compression/zx2/pc/`),
 Python 3 with `pillow`, and PowerShell.
 
 ```
 .\tools\build.ps1
 ```
 
-Output: `build/snookerVBXE.atr`. The ATR is packed with
-[ZX02](https://github.com/dmsc/zx02) (`docs/mads-src/compression/zx2/pc/zx02.exe`, see its LICENSE).
+Output: `build/snookerVBXE.atr`.
