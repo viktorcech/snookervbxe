@@ -22,7 +22,8 @@ Boot `build/snookerVBXE.atr` as **D1:** (Altirra: enable VBXE).
 | Fire (hold, release) | power, shot |
 | SPACE + joystick | cue tip: top, screw, side |
 | C | camera |
-| SHIFT + joystick up / down | request after a foul / a miss |
+| SHIFT + joystick down | after a foul: the opponent plays again |
+| SHIFT + joystick up | after a foul and a miss: balls back, the opponent plays again |
 | ESC | menu |
 
 In the title menu choose MATCH, TOURNAMENT or TRICK SHOTS with the mouse;
